@@ -1,0 +1,2 @@
+class UniversalResponse < ApplicationRecord
+end
