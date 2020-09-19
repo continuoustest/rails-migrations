@@ -17,7 +17,7 @@ default: &default
 development:
   <<: *default
 
-testing:
+test:
   <<: *default
   user: 'postgres'
   password: 'password'
